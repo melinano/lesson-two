@@ -1,0 +1,12 @@
+david 18 April 500k bananas
+bob 12 February 100 bananas
+frank 8 August 2000 watermelons
+gary 12 February 100 bananas
+helen 5 July 1m oranges
+ivan 25 October 50k apples
+carol 5 July 1m oranges
+alice 25 October 50k apples
+david 18 April 500k bananas
+eve 30 December -10k grapes
+jack 18 April 500k bananas
+jack 18 April 500k bananas
